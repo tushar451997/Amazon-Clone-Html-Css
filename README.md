@@ -7,4 +7,4 @@ A frontend clone of E-commerce website of Amazon. This is created using HTML,CSS
 * Javascript
 
 # Live Link:
-https://clone-create-byabhay-amzon-clone.netlify.app
+https://remarkable-hotteok-ad976a.netlify.app/
